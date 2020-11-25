@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to AI tutorial
 
 You can use the [editor on GitHub](https://github.com/Mansurbek25/AI_Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
