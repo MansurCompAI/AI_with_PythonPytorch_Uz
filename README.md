@@ -5,6 +5,7 @@ You can use the [editor on GitHub](https://github.com/Mansurbek25/AI_Project/edi
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+We can help you to understan better reality!
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
