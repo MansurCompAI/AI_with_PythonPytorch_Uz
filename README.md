@@ -28,6 +28,8 @@ Masalan:
 Darslar             | Mavzu                                | Videolar          |Slaydlar
 --------------------|--------------------------------------|-------------------|--------
 1-dars|Kirish|[1-dars.Kirsih](youtube.com)| file
+2-dars|Chiziqli model|[2-dars.Chiziqli model](youtube.com)| file
+3-dars|Gradient Descent (Gradient pastlash)|[3-dars.Gradient Pastlash](youtube.com)| file
 
 
 ### Mansurbek
