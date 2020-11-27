@@ -1,8 +1,12 @@
-## Assalom aleykum! Sun'iy Intillektni Python(Pytorch) orqali o'rganamiz. 
+## Assalom aleykum! Sun'iy Intellektni Python(Pytorch) orqali o'rganamiz. 
+Bizning maqsadimiz, sun'iy intellekt haqida sizlarda tasavvur uyg'otish hamda uni qo'llash ko'nikmalarini oshirish.
+Ushbu web-sahifamiz orqali muntazzam darsliklar yangilab boriladi hamda, siz o'rganuvchilar uchun taqdim qilinadi.
+Bilimlaringizni oshirish maqsadida bir qancha topshiriqlar aynan shu yerda berib boriladi...
+# Qani unda boshladik!
+- PyTorch bu Python dasturlash tilining hozirgi kunda AI(ML&DL) sohalarida keng qo'llaniladigan kutubxonlaridan biri.  
+Pytorch kutubxonasi haqida batafsil ma'lumotlarni [PyTorch](https://pytorch.org) orqali bilib olishingiz mumkin.
 
-You can use the [editor on GitHub](https://github.com/Mansurbek25/AI_Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 We can help you to understand better reality!
