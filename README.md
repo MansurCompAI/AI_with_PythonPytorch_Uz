@@ -35,9 +35,12 @@ Darslar             | Mavzu                                | Videolar          |
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Biz bilan bog'lanish:
-**Adminsitrator,creator:** *Mansurbek Abdullaev*
+**Administrator,creator:** *Mansurbek Abdullaev* 
+
 **Mail:** *[mansurbek.comchemai@gmail.com](mansurbek.comchemai@gmail.com)*
+
 **Telegram :** *@MansurbekUST*
+
 **Linkedln :** *[Mansurbek Abdullaev](https://www.linkedin.com/in/mansurbek-abdullayev-16635419a/)*
 
 #### Biz bilan qolganingiz uchun tashakkur.
