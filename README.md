@@ -13,8 +13,8 @@ Bilimlaringizni oshirish maqsadida bir qancha topshiriqlar aynan shu yerda berib
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ###Pythonda PyTorch kutubxonasini o'rnatish bosqichlari:
-1. *Python. [Avvalgi darslarimizda](https://youtu.be/qM_AHgKI778), Python dasturini qanday qilib o'rantish haqida ko'rsatib o'tganmiz. 
-2. *PyTorch 
+1. *Python. [Avvalgi darslarimizda](https://youtu.be/qM_AHgKI778), Python dasturini qanday qilib o'rantish haqida ko'rsatib o'tganmiz.*
+2. *PyTorch* 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```
