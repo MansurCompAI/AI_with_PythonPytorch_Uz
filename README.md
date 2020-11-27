@@ -6,6 +6,7 @@ Bilimlaringizni oshirish maqsadida bir qancha topshiriqlar aynan shu yerda berib
 ### PyTorch
 - PyTorch bu [Python](https://python.org) dasturlash tilining hozirgi kunda AI(ML&DL) sohalarida keng qo'llaniladigan kutubxonlaridan biri.  
 - Pytorch kutubxonasi haqida batafsil ma'lumotlarni [PyTorch](https://pytorch.org) orqali bilib olishingiz mumkin.
+
 ### Oldindan qo'yiladigan talablar (Pre-requirements): 
 -Boshlang'ich&Chiziqli algebra(Linear ALgebra) + Ehtimollar nazariyas(Probability)
 -Python 
