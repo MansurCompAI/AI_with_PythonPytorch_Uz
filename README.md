@@ -18,7 +18,9 @@ Bilimlaringizni oshirish maqsadida bir qancha topshiriqlar aynan shu yerda berib
 2. PyTorch kutubxonasini o'rnatish uchun [website](https://pytorch.org/get-started/locally/) ga tashrif buyurib u yerdan kerakli jihatlar tanlanadi(specifications).
 3. Bundan so'ng maxsus syntax ko'chirib olinib (command prompt)da yuritilinishi talab etiladi. [Dasrsli 0.00 sec] da ko'rishingiz mumkin.
 Masalan:
-````pip install torch==1.7.0+cpu torchvision==0.8.1+cpu torchaudio===0.7.0 -f https://download.pytorch.org/whl/torch_stable.html ````
+````
+pip install torch==1.7.0+cpu torchvision==0.8.1+cpu torchaudio===0.7.0 -f https://download.pytorch.org/whl/torch_stable.html 
+````
 4. Boshqa kerakli kutubxonalar esa, darslar davomida yuklanib boriladi.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
