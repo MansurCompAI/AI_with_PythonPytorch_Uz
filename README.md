@@ -1,11 +1,13 @@
-## Assalom aleykum! Sun'iy Intellektni Python(Pytorch) orqali o'rganamiz. 
+# Assalom aleykum! Sun'iy Intellektni Python(Pytorch) orqali o'rganamiz. 
 Bizning maqsadimiz, sun'iy intellekt haqida sizlarda tasavvur uyg'otish hamda uni qo'llash ko'nikmalarini oshirish.
 Ushbu web-sahifamiz orqali muntazzam darsliklar yangilab boriladi hamda, siz o'rganuvchilar uchun taqdim qilinadi.
 Bilimlaringizni oshirish maqsadida bir qancha topshiriqlar aynan shu yerda berib boriladi...
-# Qani unda boshladik!
+## Qani unda boshladik!
+### PyTorch
 - PyTorch bu Python dasturlash tilining hozirgi kunda AI(ML&DL) sohalarida keng qo'llaniladigan kutubxonlaridan biri.  
-Pytorch kutubxonasi haqida batafsil ma'lumotlarni [PyTorch](https://pytorch.org) orqali bilib olishingiz mumkin.
-
+###Pytorch kutubxonasi haqida batafsil ma'lumotlarni [PyTorch](https://pytorch.org) orqali bilib olishingiz mumkin.
+### Oldindan talablar (Pre-requirements): 
+ --> 
 
 
 ### Markdown
