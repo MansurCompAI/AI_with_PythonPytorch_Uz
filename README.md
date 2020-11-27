@@ -7,10 +7,10 @@ Bilimlaringizni oshirish maqsadida bir qancha topshiriqlar aynan shu yerda berib
 -->PyTorch bu [Python](https://python.org) dasturlash tilining hozirgi kunda AI(ML&DL) sohalarida keng qo'llaniladigan kutubxonlaridan biri.  
 -->Pytorch kutubxonasi haqida batafsil ma'lumotlarni [PyTorch](https://pytorch.org) orqali bilib olishingiz mumkin.
 
-### Oldindan qo'yiladigan talablar (Pre-requirements): 
+### Oldindan qo'yiladigan talablar (Pre-requirements)
 -->Boshlang'ich&Chiziqli algebra(Linear ALgebra) + Ehtimollar nazariyas(Probability);
 -->Python 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ###Pythonda PyTorch kutubxonasini o'rnatish bosqichlari:
 1. *Python. [Avvalgi darslarimizda](https://youtu.be/qM_AHgKI778), Python dasturini qanday qilib o'rantish haqida ko'rsatib o'tganmiz. 
 2. *PyTorch 
