@@ -16,7 +16,7 @@ Bilimlaringizni oshirish maqsadida bir qancha topshiriqlar aynan shu yerda berib
 ### Pythonda PyTorch kutubxonasini o'rnatish bosqichlari: 
 1. Python. [Avvalgi darslarimizda](https://youtu.be/qM_AHgKI778), Python dasturini qanday qilib o'rantish haqida ko'rsatib o'tganmiz.
 2. PyTorch kutubxonasini o'rnatish uchun [website](https://pytorch.org/get-started/locally/) ga tashrif buyurib u yerdan kerakli jihatlar tanlanadi(specifications).
-3. Bundan so'ng maxsus syntax ko'chirib olinib (command prompt)da yuritilinishi talab etiladi. [Dasrsli 0.00 sec] da ko'rishingiz mumkin.
+3. Bundan so'ng maxsus syntax ko'chirib olinib (command prompt)da yuritilinishi talab etiladi. [Video 0.00 sec](www.youtube.com) da ko'rishingiz mumkin.
 Masalan:
 ````pip install torch==1.7.0+cpu torchvision==0.8.1+cpu torchaudio===0.7.0 -f https://download.pytorch.org/whl/torch_stable.html````
 4. Boshqa kerakli kutubxonalar esa, darslar davomida yuklanib boriladi.
@@ -32,11 +32,14 @@ Darslar             | Mavzu                                | Videolar          |
 3-dars|Gradient Descent (Gradient pastlash)|[3-dars.Gradient Pastlash](youtube.com)| file
 4-dars|Teskari hisoblash va avtograd (Back-propagation & autograd)|[4-dars.Teskari hisoblash&autograd](youtube.com)| file
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Mansurbek
+## Biz bilan bog'lanish:
+**Adminsitrator,creator:** *Mansurbek Abdullaev*
+**Mail:** *[mansurbek.comchemai@gmail.com](mansurbek.comchemai@gmail.com)*
+**Telegram :** *@MansurbekUST*
+**Linkedln :** *[Mansurbek Abdullaev](https://www.linkedin.com/in/mansurbek-abdullayev-16635419a/)*
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mansurbek25/AI_Project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Biz bilan qolganingiz uchun tashakkur.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
