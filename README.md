@@ -1,4 +1,4 @@
-## Welcome to AI tutorial with Mansurbek
+## Assalom aleykum! Sun'iy Intillektni Python(Pytorch) orqali o'rganamiz. 
 
 You can use the [editor on GitHub](https://github.com/Mansurbek25/AI_Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
