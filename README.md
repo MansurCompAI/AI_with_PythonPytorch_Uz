@@ -27,9 +27,10 @@ Masalan:
 
 Darslar             | Mavzu                                | Videolar          |Slaydlar
 --------------------|--------------------------------------|-------------------|--------
-1-dars|Kirish|[1-dars.Kirsih](youtube.com)| file
-2-dars|Chiziqli model|[2-dars.Chiziqli model](youtube.com)| file
+1-dars|Kirish(Overview)|[1-dars.Kirsih](youtube.com)| file
+2-dars|Chiziqli model(Linear Model)|[2-dars.Chiziqli model](youtube.com)| file
 3-dars|Gradient Descent (Gradient pastlash)|[3-dars.Gradient Pastlash](youtube.com)| file
+4-dars|Teskari hisoblash va avtograd (Back-propagation & autograd)|[4-dars.Teskari hisoblash&autograd](youtube.com)| file
 
 
 ### Mansurbek
