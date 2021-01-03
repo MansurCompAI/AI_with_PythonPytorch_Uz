@@ -16,7 +16,7 @@ Bilimlaringizni oshirish maqsadida bir qancha topshiriqlar aynan shu yerda berib
 ### Pythonda PyTorch kutubxonasini o'rnatish bosqichlari: 
 1. Python. [Avvalgi darslarimizda](https://youtu.be/qM_AHgKI778), Python dasturini qanday qilib o'rantish haqida ko'rsatib o'tganmiz.
 2. PyTorch kutubxonasini o'rnatish uchun [website](https://pytorch.org/get-started/locally/) ga tashrif buyurib u yerdan kerakli jihatlar tanlanadi(specifications).
-3. Bundan so'ng maxsus syntax ko'chirib olinib (command prompt)da yuritilinishi talab etiladi. [Video 0.00 sec](www.youtube.com) da ko'rishingiz mumkin.
+3. Bundan so'ng maxsus syntax ko'chirib olinib (command prompt)da yuritilinishi talab etiladi. [Video 4.50 sec](https://youtu.be/9ViMu-YGvDM) da ko'rishingiz mumkin.
 Masalan:
 ````pip install torch==1.7.0+cpu torchvision==0.8.1+cpu torchaudio===0.7.0 -f https://download.pytorch.org/whl/torch_stable.html````
 4. Boshqa kerakli kutubxonalar esa, darslar davomida yuklanib boriladi.
@@ -28,7 +28,7 @@ Masalan:
 Darslar             | Mavzu                                | Videolar          |Slaydlar
 --------------------|--------------------------------------|-------------------|--------
 1-dars|Kirish(Overview)|[1-dars.Kirish](https://youtu.be/19y92GtzFck)| file
-2-dars|Chiziqli model(Linear Model)|[2-dars.Chiziqli model](youtube.com)| file
+2-dars|Chiziqli model(Linear Model)|[2-dars.Chiziqli model](https://youtu.be/VyC2j5zIsNI)| file
 3-dars|Gradient Pastlash (Gradient Descent)|[3-dars.Gradient Pastlash](youtube.com)| file
 4-dars|Teskari hisoblash va avtograd (Back-propagation & autograd)|[4-dars.Teskari hisoblash&autograd](youtube.com)| file
 
@@ -39,7 +39,7 @@ Darslar             | Mavzu                                | Videolar          |
 ## Biz bilan bog'lanish:
 **Administrator,creator:** *Mansurbek Abdullaev* 
 
-**Mail:** *[mansurbek.comchemai@gmail.com](mansurbek.comchemai@gmail.com)*
+**Mail:** *[mansurbek.compchemai@gmail.com](mansurbek.comchemai@gmail.com)*
 
 **Telegram :** *@MansurbekUST*
 
