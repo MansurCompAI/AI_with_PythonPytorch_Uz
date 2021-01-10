@@ -51,4 +51,12 @@ Bilimlaringizni oshirish maqsadida bir qancha topshiriqlar aynan shu yerda berib
 
 **Linkedln :** *[Mansurbek Abdullaev](https://www.linkedin.com/in/mansurbek-abdullayev-16635419a/)*
 
+
+
+# **Manbalarimiz**
+- [Youtube](https://youtube.com/channel/UC6c1Kd8aS6fdh_ZnyWygkUw) 
+- [Telegram](https://t.me/python_ai_uz)
+- [Facebook](https://www.facebook.com/groups/uzbekai)
+
+
 #### Biz bilan qolganingiz uchun tashakkur.
