@@ -45,7 +45,7 @@ Bilimlaringizni oshirish maqsadida bir qancha topshiriqlar aynan shu yerda berib
 
 **Administrator,creator:** *Mansurbek Abdullaev*
 
-**Mail:** *[mansurbek.compchemai@gmail.com](mansurbek.comchemai@gmail.com)*
+**Mail:** *[mansurbek.comchemai@gmail.com](mansurbek.comchemai@gmail.com)*
 
 **Telegram :** *@MansurbekUST*
 
