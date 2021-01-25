@@ -17,7 +17,7 @@ def loss(y_pred, y_val):
 
 # Training dan avval
 print("Bashorat (training dan avval)",  "4 soat o'qilganda:", forward(4))
-
+#111
 # Training zanjiri (loop)
 learning_rate = 0.01
 for epoch in range(10):
