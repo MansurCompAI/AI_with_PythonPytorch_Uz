@@ -34,4 +34,4 @@ for epoch in range(10):
     print(f"Epoch: {epoch} | Loss: {l.item()}")
 
 # Traningdan so'ng
-print("Bashorat (training dan keyin)",  "4 saot o'qilganda: ", forward(4))
+print("Bashorat (training dan keyin)",  "4 saot o'qilganda: ", forward(4).item())
