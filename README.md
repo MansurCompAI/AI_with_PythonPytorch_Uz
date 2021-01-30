@@ -37,7 +37,8 @@ Bilimlaringizni oshirish maqsadida bir qancha topshiriqlar aynan shu yerda berib
 | 1-dars | Kirish(Overview) | [1-dars.Kirish](https://youtu.be/19y92GtzFck) | file |
 | 2-dars | Chiziqli model(Linear Model) | [2-dars.Chiziqli model](https://youtu.be/VyC2j5zIsNI) | file |
 | 3-dars | Gradient Pastlash (Gradient Descent) | [3-dars.Gradient Pastlash](https://youtu.be/US41FuoLIZs) | file |
-| 4-dars | Teskari hisoblash va avtograd (Back-propagation & autograd) | [4-dars.Teskari hisoblash&autograd](youtube.com) | file |
+| 4-dars | Teskari hisoblash va avtograd (Back-propagation & autograd) | [4-dars.Teskari hisoblash&autograd](https://www.youtube.com/watch?v=to51-_wnugw) | file |
+| 5-dars | Chiziqli regressiya pytorchda |[5-dars.Chiziqli regressiya PyTorch](https://www.youtube.com/watch?v=mQLyl_zj-dQ) |file|
 
 ---
 

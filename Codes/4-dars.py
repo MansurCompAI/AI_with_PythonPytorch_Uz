@@ -4,6 +4,7 @@ import torch
 x_soat = [1.0, 2.0, 3.0]
 y_baho = [2.0, 4.0, 6.0]
 
+
 w = torch.tensor([1.0], requires_grad=True) #Taxminiy qiymat
 
 # (Modelimiz)To'g'ri hisoblash uchun funksiya
@@ -17,7 +18,6 @@ def loss(y_pred, y_val):
 
 # Training dan avval
 print("Bashorat (training dan avval)",  "4 soat o'qilganda:", forward(4))
-#111
 # Training zanjiri (loop)
 learning_rate = 0.01
 for epoch in range(10):
@@ -35,3 +35,5 @@ for epoch in range(10):
 
 # Traningdan so'ng
 print("Bashorat (training dan keyin)",  "4 saot o'qilganda: ", forward(4).item())
+
+
