@@ -22,7 +22,7 @@ class Model(torch.nn.Module):
         y_pred = torch.sigmoid(self.linear(x))
         return y_pred
     
-#Bizning model    Z
+#Bizning model
 model=Model()
 # print(model)
 #(2) Loss va optimizer larni tanlab olish 
