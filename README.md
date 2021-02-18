@@ -40,6 +40,7 @@ Bilimlaringizni oshirish maqsadida bir qancha topshiriqlar aynan shu yerda berib
 | 4-dars | Teskari hisoblash va avtograd (Back-propagation & autograd) | [4-dars.Teskari hisoblash&autograd](https://www.youtube.com/watch?v=to51-_wnugw) | [file](Slides//4-lecture.pdf) |
 | 5-dars | Chiziqli regressiya pytorchda |[5-dars.Chiziqli regressiya PyTorch](https://www.youtube.com/watch?v=mQLyl_zj-dQ) |[file](Slides//5-lecture.pdf)|
 |6-dars | Mantiqiy regressiya pytorchda | [6-dars.Mantiqiy regressiya Pytorch](https://www.youtube.com/watch?v=ShOM_K9jjMc&feature=youtu.be)  | [file](Slides//6-lecture.pdf) |
+|7-dars| Tayyorlanmoqda ...
 
 ---
 
