@@ -38,8 +38,8 @@ Bilimlaringizni oshirish maqsadida bir qancha topshiriqlar aynan shu yerda berib
 | 2-dars | Chiziqli model(Linear Model) | [2-dars.Chiziqli model](https://youtu.be/VyC2j5zIsNI) | [file](Slides//2-lecture(Chiziqli_model).pdf) |
 | 3-dars | Gradient Pastlash (Gradient Descent) | [3-dars.Gradient Pastlash](https://youtu.be/US41FuoLIZs) | [file](Slides//3-lecture(Gradient_Descent).pdf) |
 | 4-dars | Teskari hisoblash va avtograd (Back-propagation & autograd) | [4-dars.Teskari hisoblash&autograd](https://www.youtube.com/watch?v=to51-_wnugw) | [file](Slides//4-lecture.pdf) |
-| 5-dars | Chiziqli regressiya pytorchda |[5-dars.Chiziqli regressiya PyTorch](https://www.youtube.com/watch?v=mQLyl_zj-dQ) |file|
-|6-dars | Mantiqiy regressiya pytorchda | [6-dars.Mantiqiy regressiya Pytorch](https://www.youtube.com/watch?v=ShOM_K9jjMc&feature=youtu.be)  | file |
+| 5-dars | Chiziqli regressiya pytorchda |[5-dars.Chiziqli regressiya PyTorch](https://www.youtube.com/watch?v=mQLyl_zj-dQ) |[file](Slides//5-lecture.pdf)|
+|6-dars | Mantiqiy regressiya pytorchda | [6-dars.Mantiqiy regressiya Pytorch](https://www.youtube.com/watch?v=ShOM_K9jjMc&feature=youtu.be)  | [file](Slides//6-lecture.pdf) |
 
 ---
 
