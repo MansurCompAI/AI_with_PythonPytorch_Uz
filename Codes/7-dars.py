@@ -18,7 +18,7 @@ class Model(torch.nn.Module):
         self.linear3 = torch.nn.Linear(4, 1) # kirish 4 va chiqish 1
         # Aktivatsiya funksiyasi (Sigmoid)
         self.sigmoid = torch.nn.Sigmoid()
-        self.relu = torch.nn.Tanh()
+        self.relu = torch.nn.ReLU()
     # metod yordamida forward ni belgilash    
     def forward(self, x):
         natija1 = self.relu(self.linear1(x))
@@ -29,21 +29,22 @@ class Model(torch.nn.Module):
 model = Model()   
 
 # Lossni va optimizer tanlash
-criterioin = torch.nn.BCELoss(size_average = True)
+criterioin = torch.nn.BCELoss(reduction='mean')
 optimizer = torch.optim.SGD(model.parameters(), lr = 0.01) 
 
 # Training
-for epoch in range(10000):     # Epochlar soni 100
+for epoch in range(15000):     # Epochlar soni 100
     y_pred = model(x_data)  # Forward (to'g'ri xisoblash)
     loss = criterioin(y_pred, y_data)
-    if epoch % 1000 ==0:# loss ni hisoblash
-        print(f'epoch # {epoch} --> Loss {loss.item()}')
+    if epoch % 1000 == 0:# loss ni hisoblash
+        print(f'epoch # {epoch} --> Loss {loss.item():.4f}')
     optimizer.zero_grad()  # Optimizerni nolga tenglab olish
     loss.backward() # Teskari hisoblash (Back prop)
     optimizer.step()  # Optimizer orqali w ni qiymatini yangilash 
-    
+print(f"\n Trainingdan so'ng test qilib ko'ramiz \n{'=' * 50}")   
 # Testing data
-x_test = torch.from_numpy(xy_data[723:724, 0:-1])
-print(x_test)
+x_test = torch.from_numpy(xy_data[752:753, 0:-1])
+print(f' test uchun data == {x_test}')
 test = model(x_test)
+print(f"\n Natija quyidagicha \n{'=' * 50}")
 print(f"Bashorat qiymat: {test.item():.4f} | diabet mavjudligi: { test.item() > 0.5}")

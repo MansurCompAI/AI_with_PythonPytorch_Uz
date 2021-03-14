@@ -1,2 +1,1 @@
-
-    y_pred = model(x_soat)
+0.5}")
