@@ -1,4 +1,4 @@
-#Kerakli kutubconalrni chaqirib olish
+#Kerakli kutubxonalrni chaqirib olish
 import torch 
 import numpy as np
 
@@ -16,7 +16,7 @@ class Model(torch.nn.Module):
         self.linear1 = torch.nn.Linear(8, 6) # kirish 8 va chiqish 6
         self.linear2 = torch.nn.Linear(6, 4) # kirish 6 va chiqish 4
         self.linear3 = torch.nn.Linear(4, 1) # kirish 4 va chiqish 1
-        # Aktivatsiya funksiyasi (Sigmoid)
+        # Aktivatsiya funksiyasi (Sigmoid&ReLU)
         self.sigmoid = torch.nn.Sigmoid()
         self.relu = torch.nn.ReLU()
     # metod yordamida forward ni belgilash    
@@ -33,7 +33,7 @@ criterioin = torch.nn.BCELoss(reduction='mean')
 optimizer = torch.optim.SGD(model.parameters(), lr = 0.01) 
 
 # Training
-for epoch in range(15000):     # Epochlar soni 100
+for epoch in range(15000):     # Epochlar soni 15000
     y_pred = model(x_data)  # Forward (to'g'ri xisoblash)
     loss = criterioin(y_pred, y_data)
     if epoch % 1000 == 0:# loss ni hisoblash
