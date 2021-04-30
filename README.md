@@ -41,7 +41,8 @@ Bilimlaringizni oshirish maqsadida bir qancha topshiriqlar aynan shu yerda berib
 | 5-dars | Chiziqli regressiya pytorchda |[5-dars.Chiziqli regressiya PyTorch](https://www.youtube.com/watch?v=mQLyl_zj-dQ) |[file](Slides//5-lecture.pdf)|
 |6-dars | Mantiqiy regressiya pytorchda | [6-dars.Mantiqiy regressiya Pytorch](https://www.youtube.com/watch?v=ShOM_K9jjMc&feature=youtu.be)  | [file](Slides//6-lecture.pdf) |
 |7-dars| Deep and Wide | [7-dars. Deep and Wide](https://youtu.be/cgWljGIYVxo)|[file](Slides//7-lecture.pdf)
-|8-dars| PyTorch Dataloader | [8-dars. PyTorch dataloader](https://youtu.be/2_Ne2u6vfyI) |[file](Slides//8)
+|8-dars| PyTorch Dataloader | [8-dars. PyTorch dataloader](https://youtu.be/2_Ne2u6vfyI) |[file](Slides//8-lecture.pdf)
+|9-dars| Softmax --Tayyorlanmoqda
 
 ---
 
