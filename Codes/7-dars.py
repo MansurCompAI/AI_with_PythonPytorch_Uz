@@ -48,3 +48,33 @@ print(f' test uchun data == {x_test}')
 test = model(x_test)
 print(f"\n Natija quyidagicha \n{'=' * 50}")
 print(f"Bashorat qiymat: {test.item():.4f} | diabet mavjudligi: { test.item() > 0.5}")
+
+
+for i, data in enumerate(train_loader):
+    # kirish ma'lumotlar (input)larni ajratib olish 
+    # Variables (Tensorga) larga o'girib olish
+    inputs, labels = Variable(inputs), Variable(labels)
+    
+    # Trainingni amalga oshirish
+  
+from torch.utils.data import Dataset, DataLoader
+  
+class CustomDataset(Dataset):
+    
+    # Ma'lumotlarni tayyorlash
+    def __init__(self):
+        
+        
+        
+    def __getitem__(self, index):
+        return 
+        
+        
+    def __len__(self):
+        return
+
+dataset = CustomDataset()
+train_loader = DataLoader(dataset=dataset,
+                          batch_size=64,
+                          shuffle=True)
+
