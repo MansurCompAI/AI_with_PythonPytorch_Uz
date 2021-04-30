@@ -52,7 +52,7 @@ Bilimlaringizni oshirish maqsadida bir qancha topshiriqlar aynan shu yerda berib
 
 **Mail:** *[mansurbek.comchemai@gmail.com](mansurbek.comchemai@gmail.com)*
 
-**Telegram :** *@amduzadmin*
+**Telegram :** [*@amduzadmin*](https://t.me/amduzadmin)
 
 **Linkedln :** *[Mansurbek Abdullaev](https://www.linkedin.com/in/mansurbek-abdullayev-16635419a/)*
 
