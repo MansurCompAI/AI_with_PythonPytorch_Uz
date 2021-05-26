@@ -33,7 +33,6 @@ Bilimlaringizni oshirish maqsadida bir qancha topshiriqlar aynan shu yerda berib
 
 
 | Darslar | Mavzu | Videolar | Slaydlar |
-| - | - | - | - |
 | 1-dars | Kirish(Overview) | [1-dars.Kirish](https://youtu.be/19y92GtzFck) | [file](Slides//1-lecture(Overview).pdf) |
 | 2-dars | Chiziqli model(Linear Model) | [2-dars.Chiziqli model](https://youtu.be/VyC2j5zIsNI) | [file](Slides//2-lecture(Chiziqli_model).pdf) |
 | 3-dars | Gradient Pastlash (Gradient Descent) | [3-dars.Gradient Pastlash](https://youtu.be/US41FuoLIZs) | [file](Slides//3-lecture(Gradient_Descent).pdf) |
